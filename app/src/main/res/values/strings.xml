@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PutHomework</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_job">Your Job</string>
+    <string name="put_method">Put Method</string>
+    <string name="retrofit_put">Retrofit Put</string>
+</resources>
